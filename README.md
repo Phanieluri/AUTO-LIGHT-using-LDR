@@ -44,11 +44,6 @@ GPIO19 → Signal Pin
 
 GND → GND
 
-### Push Button
-
-GPIO18 → Push Button → GND
-
-Using ESP32 internal pull-up resistor.
 
 ## Working Principle
 
@@ -62,7 +57,6 @@ Using ESP32 internal pull-up resistor.
 
    * LED turns OFF
    * Buzzer stops
-5. The push button can be used to control additional functionality or automation logic.
 
 ## Project Structure
 
